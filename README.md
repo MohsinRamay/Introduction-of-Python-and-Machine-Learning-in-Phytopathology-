@@ -12,6 +12,8 @@ Python is a powerful open-source programming language known for its easy-access 
 
 ## Presenters
 
+![alt text](https://github.com/MohsinRamay/Introduction-of-Python-and-Machine-Learning-in-Phytopathology-/tree/main/data/miscellaneous/20220317_095138909_iOS.jpg?raw=true)
+
 ### Dr. Muhammad Mohsin Raza - University of Exeter
 
 Dr. Muhammad Mohsin Raza is a Postdoctoral Fellow in Data Science and Environment at The Joint Centre for Excellence in Environmental Intelligence (JCEEI) at the University of Exeter and The Alan Turing Institute in London. Dr. Raza holds a Ph.D. in Plant Pathology specializing in yield loss modeling and disease detection based on remote sensing from Iowa State University (ISU). He also has an ISU graduate certificate in Geographic Information System (GIS). In his current position, he is integrating crop and disease models with remote sensing, climate re-analysis data, and climate projections. At JCEEI, he is developing innovative approaches to understanding abiotic and biotic pressures on crop production under climate change.
