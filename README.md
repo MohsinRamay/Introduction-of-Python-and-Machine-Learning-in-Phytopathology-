@@ -12,7 +12,7 @@ Python is a powerful open-source programming language known for its easy-access 
 
 ## Presenters
 
-![alt text](https://github.com/MohsinRamay/Introduction-of-Python-and-Machine-Learning-in-Phytopathology-/tree/main/data/miscellaneous/20220317_095138909_iOS.jpg?raw=true)
+<img src="data/miscellaneous/20220317_095138909_iOS.jpg" width="100" >
 
 ### Dr. Muhammad Mohsin Raza - University of Exeter
 
