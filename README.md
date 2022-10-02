@@ -18,7 +18,7 @@ Python is a powerful open-source programming language known for its easy-access 
 
 Dr. Muhammad Mohsin Raza is a Postdoctoral Fellow in Data Science and Environment at The Joint Centre for Excellence in Environmental Intelligence (JCEEI) at the University of Exeter and The Alan Turing Institute in London. Dr. Raza holds a Ph.D. in Plant Pathology specializing in yield loss modeling and disease detection based on remote sensing from Iowa State University (ISU). He also has an ISU graduate certificate in Geographic Information System (GIS). In his current position, he is integrating crop and disease models with remote sensing, climate re-analysis data, and climate projections. At JCEEI, he is developing innovative approaches to understanding abiotic and biotic pressures on crop production under climate change.
 
-<img src="data/miscellaneous/xing.jpg" width="100" >
+<img src="data/miscellaneous/xing.jpeg" width="150" >
 
 ### Dr. Xing Wei - Purdue University
 
